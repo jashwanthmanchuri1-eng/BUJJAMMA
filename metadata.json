@@ -1,0 +1,6 @@
+{
+  "name": "AI Health Screening & Community Health Intelligence",
+  "description": "Multi-module AI health screening prototype with Heart, Diabetes & Lifestyle modules, Explainable AI (XAI) feature attribution, What-If simulation, Health Awareness scoring, and Community Screening Camp mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
